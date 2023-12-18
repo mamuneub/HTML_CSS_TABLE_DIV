@@ -1,0 +1,287 @@
+#head{
+    font-family: sans-serif;
+}
+.main_table{
+    width: 800px;
+    height: 600px;
+    background-color: #8D4F6B;
+}
+.table1{
+    width: 800px;
+    height: 240px;
+    background-color: #F1B3F9;
+}
+.table2{
+    width: 800px;
+    height: 180px;
+    background-color: #360408;
+}
+.table3{
+    width: 800px;
+    height: 180px;
+    background-color: #E60F57;
+}
+.table4{
+    width: 240px;
+    height: 240px;
+    background-color: #E9E843;
+    float: left;
+}
+.table5{
+    width: 320px;
+    height: 240px;
+    background-color: #F8BCB7;
+    float: left;
+}
+.table6{
+    width: 240px;
+    height: 240px;
+    background-color: #19782C;
+    float: left;
+}
+.table7{
+    width: 240px;
+    height: 60px;
+    background-color: #BE415C;
+}
+.table8{
+    width: 240px;
+    height: 180px;
+    background-color: #538452;
+}
+.table9{
+    width: 130px;
+    height: 180px;
+    background-color: #9D0BB4;
+    float: left;
+}
+.table10{
+    width: 110px;
+    height: 180px;
+    background-color: #17C440;
+    float: left;
+}
+.table11{
+    width: 130px;
+    height: 90px;
+    background-color: #C759F7;
+}
+.table12{
+    width: 130px;
+    height: 90px;
+    background-color: #A659F7;
+}
+.table13{
+    width: 65px;
+    height: 90px;
+    background-color: #5A2692;
+    float: left;
+}
+.table14{
+    width: 65px;
+    height: 90px;
+    background-color: #51455E;
+    float: left;
+}
+.table15{
+    width: 320px;
+    height: 120px;
+    background-color: #DDD3E8;
+}
+.table16{
+    width: 320px;
+    height: 120px;
+    background-color: #C28FFA;
+}
+.table17{
+    width: 160px;
+    height: 120px;
+    background-color: #7426C9;
+    float: left;
+}
+.table18{
+    width: 160px;
+    height: 120px;
+    background-color: #A426C9;
+    float: left;
+}
+.table19{
+    width: 800px;
+    height: 90px;
+    background-color: #690986;
+}
+.table20{
+    width: 800px;
+    height: 90px;
+    background-color: #9141BE;
+}
+.table21{
+    width: 220px;
+    height: 90px;
+    background-color: #3A0A48;
+    float: left;
+}
+.table22{
+    width: 580px;
+    height: 90px;
+    background-color: #E08AF9;
+    float: left;
+}
+.table23{
+    width: 580px;
+    height: 45px;
+    background-color: #8A95F9;
+}
+.table24{
+    width: 580px;
+    height: 45px;
+    background-color: #2130BA;
+}
+.table25{
+    width: 460px;
+    height: 180px;
+    background-color: #3C4953;
+    float: left;
+}
+.table26{
+    width: 340px;
+    height: 180px;
+    background-color: #1E5E8F;
+    float: left;
+}
+.table27{
+    width: 460px;
+    height: 60px;
+    background-color: #BBD4E7;
+}
+.table28{
+    width: 460px;
+    height: 60px;
+    background-color: #B5BEC5;
+}
+.table29{
+    width: 460px;
+    height: 60px;
+    background-color: #19364D;
+}
+.table30{
+    width: 230px;
+    height: 60px;
+    background-color: #4D193C;
+    float: left;
+}
+.table31{
+    width: 230px;
+    height: 60px;
+    background-color:#A6267C;
+    float: left;
+}
+.table32{
+    width: 120px;
+    height: 60px;
+    background-color: #A17292;
+    float: left;
+}
+.table33{
+    width: 220px;
+    height: 60px;
+    background-color: #E2C5D9;
+    float: left;
+}
+.table34{
+    width: 120px;
+    height: 60px;
+    background-color: #ac3c88;
+    float: left;
+}
+.table35{
+    width: 220px;
+    height: 30px;
+    background-color: #D3E2C5;
+}
+.table36{
+    width: 220px;
+    height: 30px;
+    background-color: #578b25;
+}
+.table37{
+    width: 340px;
+    height: 90px;
+    background-color: #8BF529;
+}
+.table38{
+    width: 340px;
+    height: 90px;
+    background-color: #3b6316;
+}
+.table39{
+    width: 150px;
+    height: 90px;
+    background-color: #0f575c;
+    float: left;
+}
+.table40{
+    width: 190px;
+    height: 90px;
+    background-color: #afd38d;
+    float: left;
+}
+.table41{
+    width: 190px;
+    height: 45px;
+    background-color: #D78F23;
+}
+.table42{
+    width: 190px;
+    height: 45px;
+    background-color: #9b8564;
+}
+.table43{
+    width: 170px;
+    height: 90px;
+    background-color: #23CFD7;
+    float: left;
+}
+.table44{
+    width: 170px;
+    height: 90px;
+    background-color: #3e8e92;
+    float: left;
+}
+.table45{
+    width: 170px;
+    height: 30px;
+    background-color: #2358D7;
+}
+.table46{
+    width: 170px;
+    height: 30px;
+    background-color: #23A3D7;
+}
+.table47{
+    width: 170px;
+    height: 30px;
+    background-color: #64C2E8;
+}
+.table48{
+    width: 85px;
+    height: 30px;
+    background-color: #E864B8;
+    float: left;
+}
+.table49{
+    width: 85px;
+    height: 30px;
+    background-color: #c41684;
+    float: left;
+}
+.table50{
+    width: 85px;
+    height: 15px;
+    background-color: #E86480;
+}
+.table51{
+    width: 85px;
+    height: 15px;
+    background-color: #e22a52;
+}
